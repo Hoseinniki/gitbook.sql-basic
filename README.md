@@ -37,7 +37,7 @@ SQL Server cung cấp nhiều tính năng và công cụ để quản lý và t�
 
 ## Các công cụ và tài nguyên hỗ trợ
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>SQL Server Management Studio (SSMS)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>SQL Server Management Studio (SSMS)</p></figcaption></figure>
 
 SQL Server cung cấp nhiều công cụ và tài nguyên hỗ trợ để giúp người dùng quản lý và tối ưu hóa cơ sở dữ liệu của mình. Sau đây là một số công cụ và tài nguyên quan trọng trong SQL Server:
 
